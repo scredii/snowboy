@@ -33,7 +33,7 @@
   "devDependencies": {
     "@types/node": "^6.0.38",
     "aws-sdk": "2.x",
-    "nan": "^2.4.0",
+    "nan": "2.11.1",
     "typescript": "^2.0.2"
   },
   "bugs": {
